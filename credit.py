@@ -1,10 +1,3 @@
-# ESC 180: Intro to Computer Programming
-# Project 1
-# Instructor: Michael Guerzhoy
-# Alec Yu and Alec MacGregor
-
-# Part 1
-
 # You should modify initialize()
 def initialize():
     '''Assign initial values to variables needed for credit to work and global it'''
